@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01_association_football.txt",
+    "title": "Association football",
+    "kind": "encyclopedia",
+    "site": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Association_football",
+    "license": "CC BY-SA 4.0",
+    "history": "https://en.wikipedia.org/w/index.php?title=Association_football&action=history"
+  },
+  {
+    "file": "02_fifa_world_cup.txt",
+    "title": "FIFA World Cup",
+    "kind": "encyclopedia",
+    "site": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+    "license": "CC BY-SA 4.0",
+    "history": "https://en.wikipedia.org/w/index.php?title=FIFA_World_Cup&action=history"
+  },
+  {
+    "file": "03_real_madrid_liverpool_2018.txt",
+    "title": "European football: Real Madrid wins third consecutive Champions League beating Liverpool 3-1",
+    "kind": "match report",
+    "site": "Wikinews",
+    "url": "https://en.wikinews.org/wiki/European_football:_Real_Madrid_wins_third_consecutive_Champions_League_beating_Liverpool_3-1",
+    "license": "CC BY 2.5",
+    "history": "https://en.wikinews.org/w/index.php?title=European_football:_Real_Madrid_wins_third_consecutive_Champions_League_beating_Liverpool_3-1&action=history"
+  },
+  {
+    "file": "04_france_argentina_uruguay_portugal.txt",
+    "title": "FIFA World Cup 2018 Last 16: France, Uruguay send Argentina, Portugal home",
+    "kind": "match report",
+    "site": "Wikinews",
+    "url": "https://en.wikinews.org/wiki/FIFA_World_Cup_2018_Last_16:_France,_Uruguay_send_Argentina,_Portugal_home",
+    "license": "CC BY 2.5",
+    "history": "https://en.wikinews.org/w/index.php?title=FIFA_World_Cup_2018_Last_16:_France,_Uruguay_send_Argentina,_Portugal_home&action=history"
+  },
+  {
+    "file": "05_world_cup_2018_group_stage.txt",
+    "title": "FIFA World Cup 2018 day three: France, Denmark and Croatia wins three points; Argentina shares the spoils with debutants Iceland",
+    "kind": "match report",
+    "site": "Wikinews",
+    "url": "https://en.wikinews.org/wiki/FIFA_World_Cup_2018_day_three:_France,_Denmark_and_Croatia_wins_three_points;_Argentina_shares_the_spoils_with_debutants_Iceland",
+    "license": "CC BY 2.5",
+    "history": "https://en.wikinews.org/w/index.php?title=FIFA_World_Cup_2018_day_three:_France,_Denmark_and_Croatia_wins_three_points;_Argentina_shares_the_spoils_with_debutants_Iceland&action=history"
+  },
+  {
+    "file": "06_football_basics.txt",
+    "title": "Football (Soccer)/The Basics",
+    "kind": "learning guide",
+    "site": "Wikibooks",
+    "url": "https://en.wikibooks.org/wiki/Football_(Soccer)/The_Basics",
+    "license": "CC BY-SA 4.0",
+    "history": "https://en.wikibooks.org/w/index.php?title=Football_(Soccer)/The_Basics&action=history"
+  },
+  {
+    "file": "07_football_history.txt",
+    "title": "Football (Soccer)/The History",
+    "kind": "learning guide",
+    "site": "Wikibooks",
+    "url": "https://en.wikibooks.org/wiki/Football_(Soccer)/The_History",
+    "license": "CC BY-SA 4.0",
+    "history": "https://en.wikibooks.org/w/index.php?title=Football_(Soccer)/The_History&action=history"
+  },
+  {
+    "file": "08_football_leagues_teams.txt",
+    "title": "Football (Soccer)/The Leagues and Teams",
+    "kind": "learning guide",
+    "site": "Wikibooks",
+    "url": "https://en.wikibooks.org/wiki/Football_(Soccer)/The_Leagues_and_Teams",
+    "license": "CC BY-SA 4.0",
+    "history": "https://en.wikibooks.org/w/index.php?title=Football_(Soccer)/The_Leagues_and_Teams&action=history"
+  }
+]
