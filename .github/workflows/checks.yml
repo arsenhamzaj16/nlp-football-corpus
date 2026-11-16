@@ -1,0 +1,21 @@
+name: Notebook and corpus checks
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install basic test dependencies
+        run: pip install nbformat pytest beautifulsoup4 requests
+      - name: Check notebook and source manifest
+        run: pytest -q
+      - name: Validate local corpus if present
+        shell: bash
+        run: |
+          if test -f corpus/01_association_football.txt; then
+            python scripts/validate_corpus.py
+          else
+            echo 'Corpus not committed yet; run python scripts/corpus_builder.py and commit the corpus files.'
