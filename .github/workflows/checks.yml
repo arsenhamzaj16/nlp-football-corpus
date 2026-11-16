@@ -19,3 +19,4 @@ jobs:
             python scripts/validate_corpus.py
           else
             echo 'Corpus not committed yet; run python scripts/corpus_builder.py and commit the corpus files.'
+          fi
